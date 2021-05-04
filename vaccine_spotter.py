@@ -4,18 +4,18 @@ import os
 import smtplib
 from time import time,ctime
 
-email_user = '<from_email@email.com>'
-email_password = '<password>'
+email_user = 'hithere.abcxyz@gmail.com'
+email_password = 'phoenixisdard'
 
 sent_from = email_user
-to = ['<to_email@email.com>']
+to = ['rsakshi186@gmail.com']
 
 minutes = 1
 
 today = date.today()
 
 
-__district = "297" #kannur
+__district = "366" #kannur
 
 '''
 295 - Kasargod
